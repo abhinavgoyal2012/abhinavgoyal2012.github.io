@@ -875,7 +875,8 @@ footer {
 
 footer p {
 	margin: 0;
-	font-family: 'Montserrat', 'Helvetica Neue', 'Lucida Grande', Arial, Verdana, sans-serif;
+	/*font-family: 'Montserrat', 'Helvetica Neue', 'Lucida Grande', Arial, Verdana, sans-serif;*/
+	font-family : 'Fiolex Girls';
 	font-size: 80px;
 	color: #9e9e9e;
 }
