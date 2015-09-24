@@ -570,7 +570,7 @@ section.welcome-section {
 	padding: 0px 0 5px;
 	color:#000;
 	font-size: 84px;
-	text-shadow: 2px 2px #fff;;
+	text-shadow: 2px 2px #fff;
 	font-family:'Fiolex Girls';
 }
 
@@ -586,9 +586,11 @@ section.welcome-section {
 
 #welcome h2 {
     margin: 0 0 20px;
-    font-size: 17px;
+    font-size: 40px;
     line-height: 20px;
-    color: #FFF;
+    /*color: #FFF;*/
+	color: #000;
+	font-family: 'Fiolex Girls';
 }
 
 a.anchor-link {

@@ -586,9 +586,13 @@ section.welcome-section {
 
 #welcome h2 {
     margin: 0 0 20px;
-    font-size: 17px;
+    font-size: 40px;
     line-height: 20px;
-    color: #FFF;
+    /*color: #FFF;*/
+	color: #000;
+	font-family: 'Fiolex Girls';
+	font-weight: bold;
+	line-height:1.1;
 }
 
 a.anchor-link {
