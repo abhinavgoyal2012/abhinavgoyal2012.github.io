@@ -570,10 +570,10 @@ section.welcome-section {
 	font-family: 'Fiolex Girls';
 	color:#000;
 	text-shadow: 2px 2px #fff;
-	padding: 30px 0;
-	/*text-align: center;
+	/*padding: 30px 0;*/
+	text-align: center;
 	padding: 0px 0 5px;
-	color: #e8ddd4;*/
+	/*color: #e8ddd4;*/
 }
 
 #welcome h2 {
