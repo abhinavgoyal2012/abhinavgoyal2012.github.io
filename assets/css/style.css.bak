@@ -566,15 +566,20 @@ section.welcome-section {
 }
 
 .main section.welcome-section h1 {
+	text-align: center;
+	padding: 0px 0 5px;
+	color: #e8ddd4;
+}
+
+
+/*.main section.welcome-section h1 {
 	font-size: 84px !important;
 	font-family: 'Fiolex Girls';
 	color:#000;
 	text-shadow: 2px 2px #fff;
-	padding: 30px 0;
 	text-align: center;
 	padding: 0px 0 5px;
-	/*color: #e8ddd4;*/
-}
+}*/
 
 #welcome h2 {
     margin: 0 0 20px;
