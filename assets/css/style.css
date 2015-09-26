@@ -887,6 +887,20 @@ footer p {
 	color: #9e9e9e;
 }
 
+p.invitation {
+	margin: 0;
+	font-family: 'Pacifico',cursive;
+	font-size: 50px;
+	color: #9e9e9e;
+}
+
+p.invitationsmall {
+	margin: 0;
+	font-family: 'Pacifico',cursive;
+	font-size: 20px;
+	color: #9e9e9e;
+}
+
 #mail-us-footer {
 	max-width: 60%;
 	margin: 0 auto 25px;
