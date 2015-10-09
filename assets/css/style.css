@@ -150,7 +150,7 @@ a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif ;
+	font-family: Fiolex Girls, Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif ;
 	color: #333;
 }
 
@@ -222,6 +222,7 @@ h2.photos {
 
 
 h3 {
+	font-family:  Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 	line-height: 1.8em;
 	font-size: 18px;
 }
