@@ -260,7 +260,7 @@ h4.blankstory {
 	margin-left: 50%;
 	width: 50%;
 	padding-top: 0;
-	border-left: 1px solid #333;
+	/*border-left: 1px solid #333;*/ /*Abhinav Commented : To remove the black vertical line*/
 }
 
 h4.photos {
