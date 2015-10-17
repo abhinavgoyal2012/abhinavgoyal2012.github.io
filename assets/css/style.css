@@ -202,7 +202,7 @@ h2 {
 	margin-bottom: 10px;
 	/*text-transform:uppercase;*/		/*Abhinav Commented*/
 	/*letter-spacing:4px;*/				/*Abhinav Changed : From4px to 2 px since the text was going in 2 lines*/
-	letter-spacing:2px;
+	letter-spacing:4px;
 }
 
 h2.story {
